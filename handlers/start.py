@@ -1,8 +1,8 @@
 # ============================================================
 #Group Manager Bot
 # Author: LearningBotsOfficial (https://github.com/LearningBotsOfficial) 
-# Support: https://t.me/LearningBotsCommunity
-# Channel: https://t.me/learning_bots
+# Support: https://t.me/karunada_kings_kingdom
+# Channel: https://t.me/about_kannadigaru
 # YouTube: https://youtube.com/@learning_bots
 # License: Open-source (keep credits, no resale)
 # ============================================================
@@ -27,7 +27,7 @@ def register_handlers(app: Client):
 
    ✨ Hello {user}! ✨
 
-👋 I am Nomad 🤖 
+👋 I am Karnataka Superbot 🤖 
 
 Highlights:
 ─────────────────────────────
@@ -46,8 +46,8 @@ Highlights:
                 InlineKeyboardButton("⌂ Update ⌂", url=UPDATE_CHANNEL),
             ],
             [
-                InlineKeyboardButton("※ ŎŴɳēŔ ※", url=f"tg://user?id={OWNER_ID}"),
-                InlineKeyboardButton("Repo", url="https://github.com/LearningBotsOfficial/Nomade"),
+                InlineKeyboardButton("※ ŎŴɳēŔ ※", url="https://t.me/owner_shaan"),
+                InlineKeyboardButton("Repo", url="https://t.me/about_kannadigaru"),
                 
             ],
             [InlineKeyboardButton("📚 Help Commands 📚", callback_data="help")]
