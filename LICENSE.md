@@ -1,9 +1,9 @@
 # License for Nomad – Telegram Group Manager Bot
 
-**Author:** [LearningBotsOfficial](https://t.me/owner_shaan)  
-**Support Group:** [@LearningBotsCommunity](https://t.me/karunada_kings_kingdom)  
-**Update Channel:** [@learning_bots](https://t.me/about_kannadigaru)  
-**YouTube:** [Learning Bots](https://youtube.com/@karunada_kings_kingdom)
+**Author:** [Ownerl](https://t.me/owner_shaan)  
+**Support Group:** [Karunada Kings](https://t.me/karunada_kings_kingdom)  
+**Update Channel:** [About Kannadiga](https://t.me/about_kannadigaru)  
+**YouTube:** [Team Karnataka Bots](https://youtube.com/@karunada_kings_kingdom)
 
 ---
 
