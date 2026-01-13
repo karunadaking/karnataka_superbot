@@ -1,9 +1,9 @@
 # ============================================================
 # Group Manager Bot
-# Author: LearningBotsOfficial (https://github.com/LearningBotsOfficial) 
-# Support: https://t.me/karunada_kings_kingdom
-# Channel: https://t.me/karunada_kings_kingdom
-# YouTube: https://youtube.com/@learning_bots
+# Author: LearningBotsOfficial (https://t.me/karnatakabots) 
+# Support: https://t.me/karnatakabots
+# Channel: https://t.me/karnatakabots
+# YouTube: https://t.me/karnatakabots
 # License: Open-source (keep credits, no resale)
 # ============================================================
 
