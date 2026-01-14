@@ -1,10 +1,10 @@
 # ============================================================
 #Group Manager Bot
-# Author: LearningBotsOfficial (https://github.com/LearningBotsOfficial) 
-# Support: https://t.me/karunada_kings_kingdom
-# Channel: https://t.me/about_kannadigaru
-# YouTube: https://youtube.com/@learning_bots
-# License: Open-source (keep credits, no resale)
+# Author: karnataka bots (https://t.me/karnatakabots) 
+# Support: https://t.me/karnatakabots
+# Channel: https://t.me/karnatakabots
+# YouTube: https://t.me/karnatakabots
+# License: https://t.me/karnatakabots
 # ============================================================
 
 
@@ -46,8 +46,8 @@ Highlights:
                 InlineKeyboardButton("⌂ Update ⌂", url=UPDATE_CHANNEL),
             ],
             [
-                InlineKeyboardButton("※ ŎŴɳēŔ ※", url="https://t.me/owner_shaan"),
-                InlineKeyboardButton("Repo", url="https://t.me/about_kannadigaru"),
+                InlineKeyboardButton("※ ŎŴɳēŔ ※", url="https://t.me/karnatakabots"),
+                InlineKeyboardButton("Repo", url="https://t.me/karnatakabots"),
                 
             ],
             [InlineKeyboardButton("📚 Help Commands 📚", callback_data="help")]
